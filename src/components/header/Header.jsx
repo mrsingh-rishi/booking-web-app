@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import "./header.css"
 import { faBed, faCab, faCalendarDays, faCar, faPerson, faPlane } from "@fortawesome/free-solid-svg-icons"
-import { DateRange, DateRangePicker } from "react-date-range"
+import { DateRange } from "react-date-range"
 import { useState } from "react"
 import 'react-date-range/dist/styles.css'; // main css file
 import 'react-date-range/dist/theme/default.css'; // theme css file
