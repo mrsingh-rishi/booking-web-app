@@ -1,3 +1,12 @@
+# API Link:-
+https://rishibookingbackend.onrender.com/api
+
+GET all hotesl: https://rishibookingbackend.onrender.com/api/hotels
+
+GET hotel: https://rishibookingbackend.onrender.com/api/hotels/:id
+
+UPDATE hotel: https://rishibookingbackend.onrender.com/api/hotels/:id
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
