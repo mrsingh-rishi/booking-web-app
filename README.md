@@ -1,12 +1,10 @@
 #API Link:-
-http://localhost:8800/api/
+https://rishibookingbackend.onrender.com/api
+GET all hotesl: https://rishibookingbackend.onrender.com/api/hotels
 
-GET all hotesl: http://localhost:8800/api/hotels
+GET hotel: https://rishibookingbackend.onrender.com/api/hotels/:id
 
-GET hotel: http://localhost:8800/api/:id
-
-
-UPDATE hotel: http://localhost:8800/api/:id
+UPDATE hotel: https://rishibookingbackend.onrender.com/api/hotels/:id
 
 # Getting Started with Create React App
 
