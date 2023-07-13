@@ -1,5 +1,6 @@
 #API Link:-
 https://rishibookingbackend.onrender.com/api
+
 GET all hotesl: https://rishibookingbackend.onrender.com/api/hotels
 
 GET hotel: https://rishibookingbackend.onrender.com/api/hotels/:id
