@@ -2,7 +2,10 @@
 http://localhost:8800/api/
 
 GET all hotesl: http://localhost:8800/api/hotels
+
 GET hotel: http://localhost:8800/api/:id
+
+
 UPDATE hotel: http://localhost:8800/api/:id
 
 # Getting Started with Create React App
